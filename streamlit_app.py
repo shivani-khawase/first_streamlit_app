@@ -1,6 +1,7 @@
 import streamlit
-streamlit.title('my first file')
-streamlit.header('Menu')
-streamlit.text('otameal')
-streamlit.text('spanich')
-streamlit.text('half boiled egg')
+streamlit.title('My Mopm\'s New Healty Diner')
+streamlit.header('Breakfast Favorites')
+streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
+streamlit.text('🥗 Kale, Spinach & Rocket Smoothie')
+streamlit.text('🐔 Hard-Boiled Free-Range Egg')
+streamlit.text('🥑🍞 Avocado Toast')
